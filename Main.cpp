@@ -18,7 +18,7 @@ int main(int argc, char* argv[])
 	desc.h = 640;
 
 	CommanderGame instance;
-
+	
 	instance.preInit();
 	core::init(&desc);
 
